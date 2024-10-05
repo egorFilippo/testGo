@@ -2,8 +2,8 @@ package main
 
 import (
 	f "fmt"
+	"github.com/egorFilippo/testGo/utils"
 	_ "net/http"
-	"testGo/utils"
 )
 
 func main() {
